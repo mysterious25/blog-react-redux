@@ -1,4 +1,4 @@
-# Redux Blog Example
+# Redux Blog Text
 
 A simple task of React, Redux and React Router
 
