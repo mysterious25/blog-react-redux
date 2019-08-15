@@ -1,12 +1,8 @@
 # Redux Blog Example
 
-A simple example of React, Redux and React Router
-
-http://jarrodmedrano.github.io/react-redux-blog/
+A simple task of React, Redux and React Router
 
 ```
 	> npm install
 	> npm start
 ```
-
-learned from @StephenGrider.
