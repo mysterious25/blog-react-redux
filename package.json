@@ -1,9 +1,9 @@
 {
   "name": "redux-simple-starter",
   "version": "1.0.0",
-  "description": "Simple React Redux Blog Example",
+  "description": "A simple task of React, Redux and React Router",
   "main": "index.js",
-  "repository": "git@github.com:jarrodmedrano/ReduxYoutubeApp.git",
+  "repository": "git@github.com:mysterious25/blog-react-redux.git",
   "scripts": {
     "build:webpack": "webpack --config webpack.config.js",
     "build": "npm run build:webpack",
